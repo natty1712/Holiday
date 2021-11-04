@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
