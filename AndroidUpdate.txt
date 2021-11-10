@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Toolbar Swipe Left, Right, and Up / Down Gestures
