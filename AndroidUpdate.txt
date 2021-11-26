@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Fully Disable Private Browsing
