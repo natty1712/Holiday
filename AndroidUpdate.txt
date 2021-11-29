@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Custom Start Engine - Change the search engine of Safari to any URL
