@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Custom Start Engine - Change the search engine of Safari to any URL
