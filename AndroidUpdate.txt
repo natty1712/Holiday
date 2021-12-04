@@ -1,1 +1,1 @@
-Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
+Custom User Agent - Change the user agent for both mobile and desktop mode
