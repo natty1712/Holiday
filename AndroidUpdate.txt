@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
