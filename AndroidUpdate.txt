@@ -1,1 +1,1 @@
-Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
