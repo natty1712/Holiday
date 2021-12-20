@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
