@@ -1,1 +1,1 @@
-Custom Start Engine - Change the search engine of Safari to any URL
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
