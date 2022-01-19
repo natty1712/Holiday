@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
