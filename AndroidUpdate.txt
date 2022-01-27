@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Disable Tab Limit - Disables the default tab limit (varies between devices)
