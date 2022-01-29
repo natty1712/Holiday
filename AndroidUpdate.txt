@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Fully Disable Private Browsing
