@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Show Full Site URL - Always show the full URL in the top bar
