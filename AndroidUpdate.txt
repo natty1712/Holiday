@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Show Full Site URL - Always show the full URL in the top bar
