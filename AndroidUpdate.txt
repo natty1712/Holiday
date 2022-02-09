@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Auto Close Tabs when Safari is Minimized or Closed
