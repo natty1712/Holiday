@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Show Full Site URL - Always show the full URL in the top bar
