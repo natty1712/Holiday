@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Always Open Links in New Tab (+ Option to always open in background)
