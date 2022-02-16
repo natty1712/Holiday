@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+Change the button order of the Top and Bottom Toolbars and add additional buttons
