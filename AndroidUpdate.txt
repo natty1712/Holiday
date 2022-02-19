@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Always Open Links in New Tab (+ Option to always open in background)
