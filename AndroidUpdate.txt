@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Fullscreen Scrolling - Hide the top bar when scrolling down
