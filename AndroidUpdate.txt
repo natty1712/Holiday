@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
