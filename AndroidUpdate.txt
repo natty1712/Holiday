@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Disable tab Swiping (Only available on iOS 12 and up)
