@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Toolbar Swipe Left, Right, and Up / Down Gestures
