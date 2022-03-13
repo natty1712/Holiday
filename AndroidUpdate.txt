@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Custom User Agent - Change the user agent for both mobile and desktop mode
