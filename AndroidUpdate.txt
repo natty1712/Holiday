@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Custom Start Engine - Change the search engine of Safari to any URL
