@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
