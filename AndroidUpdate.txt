@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Disable Tab Limit - Disables the default tab limit (varies between devices)
