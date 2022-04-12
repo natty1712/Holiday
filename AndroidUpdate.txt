@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Custom User Agent - Change the user agent for both mobile and desktop mode
