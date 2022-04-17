@@ -1,1 +1,1 @@
-Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
