@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Lock Bars - Lock the top and buttom bar into place while scrolling
