@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Custom User Agent - Change the user agent for both mobile and desktop mode
