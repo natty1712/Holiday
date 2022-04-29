@@ -1,1 +1,1 @@
-Many available actions to trigger
+Fullscreen Scrolling - Hide the top bar when scrolling down
