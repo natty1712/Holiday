@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
