@@ -1,1 +1,1 @@
-Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
