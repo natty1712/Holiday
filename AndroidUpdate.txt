@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Always Open Links in New Tab (+ Option to always open in background)
