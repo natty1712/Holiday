@@ -1,1 +1,1 @@
-Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
+Lock Bars - Lock the top and buttom bar into place while scrolling
