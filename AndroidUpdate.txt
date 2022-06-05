@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
