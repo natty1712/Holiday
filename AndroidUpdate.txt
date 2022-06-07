@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
