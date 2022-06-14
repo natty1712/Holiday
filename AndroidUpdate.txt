@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Many available actions to trigger
