@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Auto-Clear Browser Data hen Safari is Minimized or Closed
