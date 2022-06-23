@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Toolbar Swipe Left, Right, and Up / Down Gestures
