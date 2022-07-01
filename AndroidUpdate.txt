@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Many available actions to trigger
