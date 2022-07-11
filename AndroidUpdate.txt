@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
