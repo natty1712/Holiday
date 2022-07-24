@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
