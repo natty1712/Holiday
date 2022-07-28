@@ -1,1 +1,1 @@
-Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
