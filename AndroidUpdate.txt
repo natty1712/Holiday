@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Auto Close Tabs when Safari is Minimized or Closed
