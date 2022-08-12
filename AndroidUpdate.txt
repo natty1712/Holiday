@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Always Open Links in New Tab (+ Option to always open in background)
