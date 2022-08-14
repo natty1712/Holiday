@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Fully Disable Private Browsing
