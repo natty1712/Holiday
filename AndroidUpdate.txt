@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Many available actions to trigger
