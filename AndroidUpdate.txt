@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+URL Bar Swipe Left, Right, and Down Gestures
