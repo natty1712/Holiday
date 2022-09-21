@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Custom User Agent - Change the user agent for both mobile and desktop mode
