@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
