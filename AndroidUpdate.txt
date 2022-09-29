@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Auto Close Tabs when Safari is Minimized or Closed
