@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Show Tab Count - Shows the tab count on the button that opens the tab switcher
