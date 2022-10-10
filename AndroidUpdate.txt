@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Auto-Clear Browser Data hen Safari is Minimized or Closed
