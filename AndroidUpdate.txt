@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Always Open Links in New Tab (+ Option to always open in background)
