@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Suppress Mailto Dialog (on iOS 10 and above)
