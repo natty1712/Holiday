@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Custom Start Engine - Change the search engine of Safari to any URL
