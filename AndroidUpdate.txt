@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Custom User Agent - Change the user agent for both mobile and desktop mode
