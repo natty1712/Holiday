@@ -1,1 +1,1 @@
-Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
+Fullscreen Scrolling - Hide the top bar when scrolling down
