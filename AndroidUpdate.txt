@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
