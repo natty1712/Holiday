@@ -1,1 +1,1 @@
-Fully Disable Private Browsing
+Disable tab Swiping (Only available on iOS 12 and up)
