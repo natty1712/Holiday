@@ -1,1 +1,1 @@
-Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
+Toolbar Swipe Left, Right, and Up / Down Gestures
