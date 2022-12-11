@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Lock Bars - Lock the top and buttom bar into place while scrolling
