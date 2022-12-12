@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Custom User Agent - Change the user agent for both mobile and desktop mode
