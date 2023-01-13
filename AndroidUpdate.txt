@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
