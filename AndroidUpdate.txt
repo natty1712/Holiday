@@ -1,1 +1,1 @@
-Many available actions to trigger
+Custom User Agent - Change the user agent for both mobile and desktop mode
