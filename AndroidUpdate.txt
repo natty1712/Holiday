@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Toolbar Swipe Left, Right, and Up / Down Gestures
