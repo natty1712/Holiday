@@ -1,1 +1,1 @@
-Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
