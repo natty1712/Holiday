@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Fullscreen Scrolling - Hide the top bar when scrolling down
