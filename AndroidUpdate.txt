@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Custom Start Engine - Change the search engine of Safari to any URL
