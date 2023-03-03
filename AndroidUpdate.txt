@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+Always Open Links in New Tab (+ Option to always open in background)
