@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Disable Tab Limit - Disables the default tab limit (varies between devices)
