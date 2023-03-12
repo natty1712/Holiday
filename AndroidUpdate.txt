@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Always Open Links in New Tab (+ Option to always open in background)
