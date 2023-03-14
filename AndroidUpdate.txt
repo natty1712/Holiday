@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Custom Start Engine - Change the search engine of Safari to any URL
