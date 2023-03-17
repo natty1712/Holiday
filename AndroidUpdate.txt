@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Many available actions to trigger
