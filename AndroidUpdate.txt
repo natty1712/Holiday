@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
