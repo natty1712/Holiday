@@ -1,1 +1,1 @@
-Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
+Show Tab Count - Shows the tab count on the button that opens the tab switcher
