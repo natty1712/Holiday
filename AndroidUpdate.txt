@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
