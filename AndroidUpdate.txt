@@ -1,1 +1,1 @@
-Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
+Fullscreen Scrolling - Hide the top bar when scrolling down
