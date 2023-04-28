@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Lock Bars - Lock the top and buttom bar into place while scrolling
