@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Disable Tab Limit - Disables the default tab limit (varies between devices)
