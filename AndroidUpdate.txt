@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Show Full Site URL - Always show the full URL in the top bar
