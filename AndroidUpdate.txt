@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
