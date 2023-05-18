@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Auto-Clear Browser Data hen Safari is Minimized or Closed
