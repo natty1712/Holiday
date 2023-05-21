@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Disable Tab Limit - Disables the default tab limit (varies between devices)
