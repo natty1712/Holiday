@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
