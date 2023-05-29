@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Disable tab Swiping (Only available on iOS 12 and up)
