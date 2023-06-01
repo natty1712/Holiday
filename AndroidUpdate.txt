@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Auto Close Tabs when Safari is Minimized or Closed
