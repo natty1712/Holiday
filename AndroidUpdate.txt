@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
