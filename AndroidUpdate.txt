@@ -1,1 +1,1 @@
-Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
+Change the button order of the Top and Bottom Toolbars and add additional buttons
