@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Custom User Agent - Change the user agent for both mobile and desktop mode
