@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
