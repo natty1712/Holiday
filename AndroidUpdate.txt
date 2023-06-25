@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+Custom Start Engine - Change the search engine of Safari to any URL
