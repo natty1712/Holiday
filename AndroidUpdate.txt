@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
