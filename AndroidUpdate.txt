@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Lock Bars - Lock the top and buttom bar into place while scrolling
