@@ -1,1 +1,1 @@
-Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
+Custom User Agent - Change the user agent for both mobile and desktop mode
