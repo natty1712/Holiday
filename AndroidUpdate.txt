@@ -1,1 +1,1 @@
-Custom Start Engine - Change the search engine of Safari to any URL
+Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
