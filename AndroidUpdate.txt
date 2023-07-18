@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Auto Close Tabs when Safari is Minimized or Closed
