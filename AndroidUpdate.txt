@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
