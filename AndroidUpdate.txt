@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Suppress Mailto Dialog (on iOS 10 and above)
