@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Change the button order of the Top and Bottom Toolbars and add additional buttons
