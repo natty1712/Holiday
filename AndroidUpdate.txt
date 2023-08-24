@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
