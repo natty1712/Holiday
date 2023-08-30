@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Change the button order of the Top and Bottom Toolbars and add additional buttons
