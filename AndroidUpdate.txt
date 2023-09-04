@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Custom Start Engine - Change the search engine of Safari to any URL
