@@ -1,1 +1,1 @@
-Custom Start Engine - Change the search engine of Safari to any URL
+Toolbar Swipe Left, Right, and Up / Down Gestures
