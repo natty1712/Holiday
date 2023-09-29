@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Fullscreen Scrolling - Hide the top bar when scrolling down
