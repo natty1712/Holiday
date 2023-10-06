@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
