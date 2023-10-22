@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Fully Disable Private Browsing
