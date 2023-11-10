@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Change the button order of the Top and Bottom Toolbars and add additional buttons
