@@ -1,1 +1,1 @@
-Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
+Auto-Clear Browser Data hen Safari is Minimized or Closed
