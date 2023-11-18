@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
