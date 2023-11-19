@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
