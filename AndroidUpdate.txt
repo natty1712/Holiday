@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Auto-Clear Browser Data hen Safari is Minimized or Closed
