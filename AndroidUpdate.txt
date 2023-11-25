@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
