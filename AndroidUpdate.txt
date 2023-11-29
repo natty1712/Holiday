@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+URL Bar Swipe Left, Right, and Down Gestures
