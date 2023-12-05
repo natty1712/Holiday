@@ -1,1 +1,1 @@
-Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
