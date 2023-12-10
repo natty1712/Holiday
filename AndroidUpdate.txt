@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Disable tab Swiping (Only available on iOS 12 and up)
