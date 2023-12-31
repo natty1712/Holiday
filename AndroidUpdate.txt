@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
