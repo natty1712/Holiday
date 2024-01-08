@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Custom User Agent - Change the user agent for both mobile and desktop mode
