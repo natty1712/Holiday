@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Show Tab Count - Shows the tab count on the button that opens the tab switcher
