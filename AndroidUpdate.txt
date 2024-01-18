@@ -1,1 +1,1 @@
-Many available actions to trigger
+Disable tab Swiping (Only available on iOS 12 and up)
