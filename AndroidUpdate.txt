@@ -1,1 +1,1 @@
-Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
