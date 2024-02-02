@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
