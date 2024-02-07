@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Auto-Clear Browser Data hen Safari is Minimized or Closed
