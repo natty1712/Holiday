@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Show Tab Count - Shows the tab count on the button that opens the tab switcher
