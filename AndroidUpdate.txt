@@ -1,1 +1,1 @@
-Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
