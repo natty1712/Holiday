@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
