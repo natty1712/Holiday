@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+Suppress Mailto Dialog (on iOS 10 and above)
