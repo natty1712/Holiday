@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Fullscreen Scrolling - Hide the top bar when scrolling down
