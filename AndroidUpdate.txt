@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
