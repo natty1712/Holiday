@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Auto-Clear Browser Data hen Safari is Minimized or Closed
