@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
