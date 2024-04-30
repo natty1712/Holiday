@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Show Full Site URL - Always show the full URL in the top bar
