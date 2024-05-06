@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
