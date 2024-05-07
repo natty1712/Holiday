@@ -1,1 +1,1 @@
-Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
+Auto-Clear Browser Data hen Safari is Minimized or Closed
