@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Custom Start Engine - Change the search engine of Safari to any URL
